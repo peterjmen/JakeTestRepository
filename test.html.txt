@@ -1,2 +1,5 @@
 Making edits on branch 2
+
 code to make conflict in branch 2
+edit to make conflict
+
